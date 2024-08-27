@@ -1,0 +1,23 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+langchain-groq 
+faiss-cpu
+pypdf
+langchain_huggingface
+langchain_chroma
+arxiv
+wikipedia
+duckduckgo-search
+mysql
+sqlalchemy
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
+numexpr ###for LLMMathChain
+langchain_huggingface
+huggingface_hub
